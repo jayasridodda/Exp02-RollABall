@@ -100,7 +100,8 @@ public class reset : MonoBehaviour
 
 ```
 ## Output :
-![](./exp2arvr.png)
+![Screenshot 2024-03-09 111109](https://github.com/jayasridodda/Exp02-RollABall/assets/123259278/34379077-54ca-42cc-9a4d-ed39016ea821)
+
 
 ## Result :
 Thus a 3D application for RollABall objects in unity is developed successfully.
