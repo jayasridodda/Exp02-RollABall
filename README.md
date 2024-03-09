@@ -28,8 +28,8 @@ Run the game and you can move the ball by using the respective keys
 ## Program :
 
 ```C#
-DEVELOPED BY : JAYABHARATHI S
-REG NO : 212222100013
+DEVELOPED BY : DODDA JAYASRI
+REG NO : 212222240028
 
 
 using System.Collections;
